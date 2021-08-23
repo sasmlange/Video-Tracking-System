@@ -8,6 +8,7 @@ introduction/instruction text, the end text, or the admin site.
 Below are the pages edit:
 
 .. toctree::
-   :maxdepth: 2
+    :glob:
+    :maxdepth: 2
 
     introduction
