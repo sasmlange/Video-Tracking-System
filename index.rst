@@ -11,3 +11,4 @@ Video Tracking System
    :caption: Contents:
 
    download
+   configure
