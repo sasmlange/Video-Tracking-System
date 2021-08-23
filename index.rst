@@ -10,3 +10,4 @@ Video Tracking System
    :maxdepth: 2
    :caption: Contents:
 
+   download
