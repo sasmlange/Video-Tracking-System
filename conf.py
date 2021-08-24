@@ -35,7 +35,7 @@ extensions = [
 templates_path = ['_templates']
 
 html_css_files = [
-    'css/custom.css',
+    'css/main.css',
 ]
 
 
