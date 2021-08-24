@@ -11,7 +11,7 @@ instructions how to use the tool.
 
 To edit, Find the file "index.rst". In the file find the comment "Start Custom".
 
-.. code-block:: python
+.. code-block:: html
     :emphasize-lines: 1
 
     <!-- Start Custom -->
