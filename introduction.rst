@@ -12,7 +12,7 @@ instructions how to use the tool.
 To edit, Find the file "index.rst". In the file find the comment "Start Custom".
 
 .. code-block:: python
-    :empathise: 1
+    :emphasize-lines: 1
 
     <!-- Start Custom -->
     <p>Use your Cal Poly user name (no password needed). I will never ask for your password!</p>
