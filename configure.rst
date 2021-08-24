@@ -14,3 +14,4 @@ Below are the pages to edit:
 
     introduction
     end
+    admin
