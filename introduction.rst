@@ -9,7 +9,7 @@ instructions how to use the tool.
   :width: 800
   :alt: The Introduction Page
 
-To edit, Find the file "index.rst". In the file find the comment "Start Custom".
+To edit, Find the file "index.php". In the file find the comment "Start Custom".
 
 .. code-block:: html
     :emphasize-lines: 1
