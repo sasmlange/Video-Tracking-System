@@ -15,7 +15,7 @@ To edit, Find the file "done.php". In the file find the comment "Start Custom".
     :emphasize-lines: 1
 
     <!-- Start Custom -->
-
+    Thank you for watching!
     <!-- End Custom -->
 
 In between "Start Custom" and "End Custom" is where you can edit the
