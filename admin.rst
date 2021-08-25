@@ -34,7 +34,7 @@ Step 3: Enter your Link in the Admin Site
     For this step and the ones that follow, you site is required to be
     hosted.
 
-    :ref:`Learn How <hosting>`
+    :ref:`Learn How <Hosting>`
 
 Goto the url where your site is hosted and add admin.html and enter the URL
 which you copied before.
