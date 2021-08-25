@@ -37,5 +37,5 @@ Step 3: Enter your Link in the Admin Site
     :ref:`Learn How <hosting>`
 
 Goto the url where your site is hosted and add admin.html and enter the URL
-which you copied before
+which you copied before.
 
