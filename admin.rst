@@ -26,7 +26,7 @@ Click the embed button and copy the link that is in the code
   :alt: The Share Button
 
 
-Step 3: Enter your Link in the admin Site
+Step 3: Enter your Link in the Admin Site
 ******************************************
 
 .. note::
@@ -36,4 +36,6 @@ Step 3: Enter your Link in the admin Site
 
     :ref:`Learn How <hosting>`
 
-Goto
+Goto the url where your site is hosted and add admin.html and enter the URL
+which you copied before
+
