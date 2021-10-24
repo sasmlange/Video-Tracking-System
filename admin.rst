@@ -39,3 +39,7 @@ Step 3: Enter your Link in the Admin Site
 Goto the url where your site is hosted and add admin.html and enter the URL
 which you copied before.
 
+.. image:: admin.jpeg
+  :width: 800
+  :alt: The Admin Page
+
