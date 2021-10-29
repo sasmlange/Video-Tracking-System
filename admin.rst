@@ -43,3 +43,5 @@ which you copied before.
   :width: 800
   :alt: The Admin Page
 
+Press go and copy the URL in the search bar
+
