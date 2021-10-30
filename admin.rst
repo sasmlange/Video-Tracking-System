@@ -43,6 +43,8 @@ which you copied before.
   :width: 800
   :alt: The Admin Page
 
-Press go and copy the URL in the search bar
+Press go and copy the URL from the search bar.
 
-
+.. image:: Copy.png
+    :width: 800
+    :alt: Copy URL
