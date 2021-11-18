@@ -24,3 +24,4 @@ a CSV (Comma Separated Values) file.
    :caption: Usage:
 
    admin
+   user
