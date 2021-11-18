@@ -60,3 +60,14 @@ Step 5: Get the results
 ******************************************
 
 Go to where your site is hosted and download log.cvs
+
+It should look like this (One User Only):
+
+.. code-block:: text
+
+    test-user, 2021-03-20, 22:16, https://www.youtube.com/embed/69vpIyXyL3E, start
+    test-user, 2021-03-20, 22:17, https://www.youtube.com/embed/69vpIyXyL3E, end
+
+This user's username is "test-user". test-user watched from 22:16 (10:16 PM) to
+22:17 (10:17 PM). The embedded video that test-user watched was
+"https://www.youtube.com/embed/69vpIyXyL3E".
