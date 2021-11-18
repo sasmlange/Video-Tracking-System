@@ -10,7 +10,7 @@ You can host this app on your own server.
 
     You need php 7 installed on your server.
 
-    :ref:`Install <https://www.php.net/manual/en/install.php>`
+    :ref:`Install <https://www.php.net/manual/en/install.php>_`
 
 Shared Hosting
 ***************
@@ -21,7 +21,7 @@ You can host this app on a shared sever.
 
     You need php to be installed on the shared sever. Some shared servers
     set up php for you like
-    :ref:`HostGator <https://www.php.net/manual/en/install.php>`.
+    :ref:`HostGator <https://www.php.net/manual/en/install.php>`_.
 
 Local Server
 *************
