@@ -16,6 +16,7 @@ CSV (Comma Separated Values) file.
    :caption: Setup:
 
    download
+   hosting
    configure
 
 .. toctree::
