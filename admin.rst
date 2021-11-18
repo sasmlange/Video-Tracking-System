@@ -43,8 +43,20 @@ which you copied before.
   :width: 800
   :alt: The Admin Page
 
+
+Step 4: Get your URL
+******************************************
+
 Press go and copy the URL from the search bar.
 
 .. image:: Copy.png
     :width: 800
     :alt: Copy URL
+
+
+Share your URL!
+
+Step 5: Get the results
+******************************************
+
+Go to where your site is hosted and download log.cvs
